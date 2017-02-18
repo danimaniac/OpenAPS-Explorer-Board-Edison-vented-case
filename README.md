@@ -24,3 +24,4 @@ Case Design Criteria:
 
 6- optional integrated but removable belt clip
 
+
