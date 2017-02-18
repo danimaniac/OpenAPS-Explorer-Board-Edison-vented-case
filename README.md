@@ -8,7 +8,7 @@ Component Hardware Specifications:
 
 2- The Intel Edison dimensions (L x W x H) are: 35.5mm x 25.0mm x 3.9mm. Further technical specifications may be viewed here: http://www.intel.com/content/dam/support/us/en/documents/edison/sb/edison_pb_331179002.pdf
 
-3- The Adafruit 3.7v 2000mAh battery dimensions are 60mm x 36mm x 7mm. Further technical specifications may be viewed here: https://cdn-shop.adafruit.com/datasheets/LiIon2000mAh37V.pdf
+3- The Adafruit 3.7v 2000mAh battery dimensions (L x W x H) are: 60mm x 36mm x 7mm. Further technical specifications may be viewed here: https://cdn-shop.adafruit.com/datasheets/LiIon2000mAh37V.pdf
 
 Case Design Criteria:
 
@@ -18,9 +18,9 @@ Case Design Criteria:
 
 3- sufficient venting to minimize overheating;
 
-4- Explorer Board LED / power button viewable / accessible
+4- removable but secure lid / cap;
 
-5- optional integrated but removable belt clip
+4- viewable and accessible Explorer Board LED / USB & UART port / power button
 
-6- 
+6- optional integrated but removable belt clip
 
