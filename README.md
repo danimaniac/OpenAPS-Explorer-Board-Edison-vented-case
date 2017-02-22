@@ -24,4 +24,4 @@ Case Design Criteria:
 
 6- optional integrated but removable belt clip
 
-![Draft Case](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPScaseConceptualSnip.PNG)
+![Draft Case](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerEdisonRig2017-02-21.png)
