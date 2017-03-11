@@ -1,5 +1,3 @@
-WIP...not yet ready for print. To do: finalize power button, confirm Explorer Board layout & dimensions (location of screws, power button, etc) once item is received (still on backorder).
-
 # OpenAPS-Explorer-Board-Edison-vented-case
 
 The contents of the enclosure will include an Explorer Board (custom printed pcb), an Intel Edison development module, and a LiPo battery. These items will be very compact and must be held securely within the enclosure but also be easily removable. This case should be sufficiently vented (non-powered) and have rounded edges and corners to ensure maximum comfort when carried in the pocket. The overall outer dimensions of the case should remain as small as possible.
@@ -25,8 +23,4 @@ Case Design Criteria:
 4- viewable and accessible Explorer Board LED / USB & UART port / power button
 
 6- optional integrated but removable belt clip
-
-![Draft Case](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22.PNG)
-
-![Draft Case](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22_2.PNG)
 
