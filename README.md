@@ -17,10 +17,15 @@ Component Hardware Specifications:
 Case Design Criteria:
 
 1- small form factor;
+
 2- rounded edges and corners;
+
 3- sufficient venting to minimize overheating;
+
 4- removable but secure lid / cap;
+
 4- viewable and accessible Explorer Board LED / USB & UART port / power button
+
 6- optional integrated but removable holster and belt clip
 
 Case
