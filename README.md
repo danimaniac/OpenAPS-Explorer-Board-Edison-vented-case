@@ -10,20 +10,17 @@ Component Hardware Specifications:
 
 2- The Intel Edison dimensions (L x W x H) are: 35.5mm x 25.0mm x 3.9mm. Further technical specifications may be viewed here: http://www.intel.com/content/dam/support/us/en/documents/edison/sb/edison_pb_331179002.pdf
 
-3- The Adafruit 3.7v 2000mAh battery dimensions (L x W x H) are: 60mm x 36mm x 7mm. Further technical specifications may be viewed here: https://cdn-shop.adafruit.com/datasheets/LiIon2000mAh37V.pdf
+3- A ready-to-order hardware pack keeps the Edison secured to the Explorer Board while keeping overall form factor as compact as possible. You will need 2 standoffs, 2 screws, and 2 nuts to mate the two components. 4 additional screws will be used to secure the Explorer Board to the case and lid interior once inserted. This hardware pack contains: 10x Standoff - M2 x 3mm, 6x Phillips Head Screw - M2 x 3mm, and 6x Nut - M2. https://www.sparkfun.com/products/13187
+
+4- The Adafruit 3.7v 2000mAh battery dimensions (L x W x H) are: 60mm x 36mm x 7mm. Further technical specifications may be viewed here: https://cdn-shop.adafruit.com/datasheets/LiIon2000mAh37V.pdf
 
 Case Design Criteria:
 
 1- small form factor;
-
 2- rounded edges and corners;
-
 3- sufficient venting to minimize overheating;
-
 4- removable but secure lid / cap;
-
 4- viewable and accessible Explorer Board LED / USB & UART port / power button
-
 6- optional integrated but removable holster and belt clip
 
 Case
