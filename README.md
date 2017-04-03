@@ -1,8 +1,8 @@
 # OpenAPS Explorer Board Edison Case and Accessories
 
-This protective case, holster, and belt clip are designed to fit the OpenAPS reference design hardware including an Explorer Board (custom printed pcb), an Intel Edison development module, and LiPo battery. These items will be very compact and must be held securely within the enclosure but also be easily removable. This case should be sufficiently vented (non-powered) and have rounded edges and corners to ensure maximum comfort when carried in the pocket. The overall outer dimensions of this protective case without holster or belt clip are: 44mm x 24mm x 72mm.
+This protective case, holster, and belt clip are designed to fit the OpenAPS reference design hardware including an Explorer Board (custom printed pcb), an Intel Edison development module, and LiPo battery. These items are very compact and held securely within the enclosure but are easily removable. This case is sufficiently vented (non-powered) and designed with rounded edges and corners for maximum comfort when carried in the pocket. This design includes an integrated "power button actuator" that allows a hard power off / on without removing the internal components.
 
-The case is designed to carry in a pocket. Print and attach the removable holster or clip to wear on the belt.
+The overall outer dimensions of this protective case without holster or belt clip are: 44mm x 24mm x 72mm. This protective case is designed to carry in a pocket. Print and attach the optional removable holster or clip to wear on the belt.
 
 Component Hardware Specifications:
 
@@ -14,9 +14,11 @@ Component Hardware Specifications:
 
 4- The Adafruit 3.7v 2000mAh battery dimensions (L x W x H) are: 60mm x 36mm x 7mm. Further technical specifications may be viewed here: https://cdn-shop.adafruit.com/datasheets/LiIon2000mAh37V.pdf
 
-Case Design Criteria:
+Again, the overall outer dimensions of this protective case without holster or belt clip are: 44mm x 24mm x 72mm.
 
-1- small form factor;
+Design Criteria utilized:
+
+1- small overall form factor;
 
 2- rounded edges and corners;
 
