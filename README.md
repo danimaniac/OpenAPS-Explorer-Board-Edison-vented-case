@@ -48,4 +48,4 @@ Optional Holster
 
 Optional Belt Clip
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseBeltClip2017-03-30.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseBeltClip.PNG)
