@@ -1,8 +1,6 @@
-Work in Progress...undertaking size revisions...not ready for print...
-
 # OpenAPS Explorer Board Edison Case and Accessories
 
-This protective case, holster, and belt clip are designed to fit the OpenAPS reference design hardware including an Explorer Board (custom printed pcb), an Intel Edison development module, and a LiPo battery. These items will be very compact and must be held securely within the enclosure but also be easily removable. This case should be sufficiently vented (non-powered) and have rounded edges and corners to ensure maximum comfort when carried in the pocket. The overall outer dimensions of the case should remain as small as possible.
+This protective case, holster, and belt clip are designed to fit the OpenAPS reference design hardware including an Explorer Board (custom printed pcb), an Intel Edison development module, and LiPo battery. These items will be very compact and must be held securely within the enclosure but also be easily removable. This case should be sufficiently vented (non-powered) and have rounded edges and corners to ensure maximum comfort when carried in the pocket. The overall outer dimensions of this protective case without holster or belt clip are: 44mm x 24mm x 72mm.
 
 The case is designed to carry in a pocket. Print and attach the removable holster or clip to wear on the belt.
 
