@@ -48,6 +48,8 @@ Case Rendering:
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22_3.PNG)
 
+I am unaware of any real-world prints of the following holster or clip. Please let me know if you print. I am, of course, interested in the fit and finish...I am ALWAYS open to revisions...
+
 Optional Holster rendering:
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseHolster2017-03-30.PNG)
