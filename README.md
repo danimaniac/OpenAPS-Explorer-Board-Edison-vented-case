@@ -30,22 +30,28 @@ Design Criteria utilized:
 
 6- optional integrated but removable holster and belt clip
 
-Case
+Case Photos:
+
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCasePhotos%20(1).jpg)
+
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCasePhotos%20(2).jpg)
+
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCasePhotos%20(3).jpg)
+
+Case Rendering:
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22.PNG)
 
-Case
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22_2.PNG)
 
-Case
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22_3.PNG)
 
-Optional Holster
+Optional Holster rendering:
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseHolster2017-03-30.PNG)
 
-Optional Belt Clip
+Optional Belt Clip rendering:
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseBeltClip2017-04-04.PNG)
