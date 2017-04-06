@@ -1,4 +1,4 @@
-# OpenAPS Explorer Board Edison Case and Accessories
+# OpenAPS Case for rig w/2000mAh Battery
 
 This protective case, holster, and belt clip are designed to fit the OpenAPS reference design hardware including an Explorer Board (custom printed pcb), an Intel Edison development module, and LiPo battery. These items are very compact and held securely within the enclosure but are easily removable. This case is sufficiently vented (non-powered) and designed with rounded edges and corners for maximum comfort when carried in the pocket. This design includes an integrated "power button actuator" that allows a hard power off / on without removing the internal components.
 
