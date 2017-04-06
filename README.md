@@ -4,4 +4,4 @@ This protective case is designed to fit the OpenAPS reference design hardware in
 
 Case Rendering:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCase2500mAh2017-04-06.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2500mAh-battery/OpenAPSCase2500mAh2017-04-06.PNG)
