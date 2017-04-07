@@ -32,28 +32,28 @@ Design Criteria utilized:
 
 Case Photos:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCasePhotos%20(1).jpg)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSCasePhotos%20(1).jpg)
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCasePhotos%20(2).jpg)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSCasePhotos%20(2).jpg)
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSCasePhotos%20(3).jpg)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSCasePhotos%20(3).jpg)
 
 Case Rendering:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardEdisonRigCase2017-02-22.PNG)
 
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22_2.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardEdisonRigCase2017-02-22_2.PNG)
 
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardEdisonRigCase2017-02-22_3.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardEdisonRigCase2017-02-22_3.PNG)
 
 I am unaware of any real-world prints of the following holster or clip. Please let me know if you print. I am, of course, interested in the fit and finish...I am ALWAYS open to revisions...
 
 Optional Holster rendering:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseHolster2017-03-30.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSEdisonExplorerCaseHolster2017-03-30.stl)
 
 Optional Belt Clip rendering:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/master/OpenAPSExplorerBoardCaseBeltClip2017-04-04.PNG)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardCaseBeltClip2017-04-04.PNG)
