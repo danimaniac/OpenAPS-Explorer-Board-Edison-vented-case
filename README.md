@@ -4,7 +4,7 @@ These protective cases, holsters, and belt clips are designed to fit OpenAPS Exp
 
 # click this photo for the 2000mAh version case, holster, and belt clip:
 
-https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/tree/w/2000mAh-battery
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardEdisonRigCase2017-02-22.PNG)
 
 # Click this photo for the 2500mAH version case:
 
