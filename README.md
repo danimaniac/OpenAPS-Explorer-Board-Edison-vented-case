@@ -52,7 +52,7 @@ I am unaware of any real-world prints of the following holster or clip. Please l
 
 Optional Holster rendering:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSEdisonExplorerCaseHolster2017-03-30.stl)
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardCaseHolster2017-03-30.PNG)
 
 Optional Belt Clip rendering:
 
