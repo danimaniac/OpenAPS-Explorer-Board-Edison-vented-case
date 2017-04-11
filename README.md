@@ -6,6 +6,10 @@ Click here for the 2000mAh version case, holster, and belt clip: (https://github
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2000mAh-battery/OpenAPSExplorerBoardEdisonRigCase2017-02-22.PNG)
 
-Click here for the 2500mAH version case: (https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/tree/w/2500mAh-battery)
+Click here for the 2500mAh version case: (https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/tree/w/2500mAh-battery)
 
 ![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/2500mAh-battery/OpenAPSCase2500mAh2017-04-06.PNG)
+
+Click here for the 2200mAh 18650 battery version case: (https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/tree/w/18650-2200mAh-battery)
+
+![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/18650-2200mAh-battery/OpenAPSCasE18650.PNG)
