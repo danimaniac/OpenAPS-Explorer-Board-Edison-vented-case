@@ -34,4 +34,3 @@ Case Rendering:
 
 Belt Clip Rendering:
 
-![alt tag](https://github.com/danimaniac/OpenAPS-Explorer-Board-Edison-vented-case/blob/w/18650-2200mAh-battery/OpenAPSCase18650Beltclip.PNG)
